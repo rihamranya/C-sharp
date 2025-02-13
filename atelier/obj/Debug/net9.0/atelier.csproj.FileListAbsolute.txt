@@ -1,0 +1,14 @@
+/Users/macintoshsd/Downloads/C#/atelier/atelier/bin/Debug/net9.0/atelier
+/Users/macintoshsd/Downloads/C#/atelier/atelier/bin/Debug/net9.0/atelier.deps.json
+/Users/macintoshsd/Downloads/C#/atelier/atelier/bin/Debug/net9.0/atelier.runtimeconfig.json
+/Users/macintoshsd/Downloads/C#/atelier/atelier/bin/Debug/net9.0/atelier.dll
+/Users/macintoshsd/Downloads/C#/atelier/atelier/bin/Debug/net9.0/atelier.pdb
+/Users/macintoshsd/Downloads/C#/atelier/atelier/obj/Debug/net9.0/atelier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintoshsd/Downloads/C#/atelier/atelier/obj/Debug/net9.0/atelier.AssemblyInfoInputs.cache
+/Users/macintoshsd/Downloads/C#/atelier/atelier/obj/Debug/net9.0/atelier.AssemblyInfo.cs
+/Users/macintoshsd/Downloads/C#/atelier/atelier/obj/Debug/net9.0/atelier.csproj.CoreCompileInputs.cache
+/Users/macintoshsd/Downloads/C#/atelier/atelier/obj/Debug/net9.0/atelier.dll
+/Users/macintoshsd/Downloads/C#/atelier/atelier/obj/Debug/net9.0/refint/atelier.dll
+/Users/macintoshsd/Downloads/C#/atelier/atelier/obj/Debug/net9.0/atelier.pdb
+/Users/macintoshsd/Downloads/C#/atelier/atelier/obj/Debug/net9.0/atelier.genruntimeconfig.cache
+/Users/macintoshsd/Downloads/C#/atelier/atelier/obj/Debug/net9.0/ref/atelier.dll
